@@ -1,0 +1,12 @@
+# Programming Languages
+HTML >= 5.0
+CSS >= 3.0
+JavaScript >= ES6
+
+# Node.js (required for npm and Vite)
+Node.js >= 14.0
+
+# NPM Packages
+vite >= 2.0
+postcss >= 8.0
+
